@@ -1,0 +1,2 @@
+# hinus
+static web
